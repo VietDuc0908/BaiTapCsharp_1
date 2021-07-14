@@ -1,0 +1,7 @@
+D:\CongViec\BE\BaiTapCsharp\BaiTapCsharp\bin\Debug\BaiTapCsharp.exe.config
+D:\CongViec\BE\BaiTapCsharp\BaiTapCsharp\bin\Debug\BaiTapCsharp.exe
+D:\CongViec\BE\BaiTapCsharp\BaiTapCsharp\bin\Debug\BaiTapCsharp.pdb
+D:\CongViec\BE\BaiTapCsharp\BaiTapCsharp\obj\Debug\BaiTapCsharp.csprojAssemblyReference.cache
+D:\CongViec\BE\BaiTapCsharp\BaiTapCsharp\obj\Debug\BaiTapCsharp.csproj.CoreCompileInputs.cache
+D:\CongViec\BE\BaiTapCsharp\BaiTapCsharp\obj\Debug\BaiTapCsharp.exe
+D:\CongViec\BE\BaiTapCsharp\BaiTapCsharp\obj\Debug\BaiTapCsharp.pdb
